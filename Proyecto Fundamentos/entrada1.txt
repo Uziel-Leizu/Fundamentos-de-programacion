@@ -1,0 +1,5 @@
+hola mundo como estan
+este es un programa contador de
+holas que cuenta cuantos hola hay
+en un archivo de texto todo esto para
+saber cuantos hola hay 

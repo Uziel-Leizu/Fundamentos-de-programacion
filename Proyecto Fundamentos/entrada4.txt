@@ -1,0 +1,5 @@
+ Anexar numeros al inicio de cada renglon 
+ tal como lo hace el editor de 
+ programas de devc++
+ para indicar el numero de 
+ línea del programa

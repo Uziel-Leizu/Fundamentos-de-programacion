@@ -1,0 +1,5 @@
+1.  Anexar numeros al inicio de cada renglon 
+2.  tal como lo hace el editor de 
+3.  programas de devc++
+4.  para indicar el numero de 
+5.  línea del programa
